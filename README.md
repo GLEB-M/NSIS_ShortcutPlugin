@@ -1,7 +1,7 @@
 # NSIS-Shortcut-Plugin
 Create shortcuts with advanced options
 
-**Expamples:**
+**Examples:**
 
 Similar to the built-in function
 
